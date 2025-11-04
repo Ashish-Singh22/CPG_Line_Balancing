@@ -8,7 +8,7 @@ app = Flask(__name__)
 # ✅ Correct CORS config
 CORS(
     app,
-    origins=["http://localhost:5173"],  # your React dev server
+    origins=["https://cpg-line-balancing.onrender.com"],  # your React dev server
     supports_credentials=True           # allows cookies, sessions
 )
 

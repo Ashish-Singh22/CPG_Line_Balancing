@@ -1,5 +1,5 @@
 
-const backendDomain = "http://127.0.0.1:5000";
+const backendDomain = "https://cpg-line-balancing-backend-python.onrender.com";
 
 const SummaryApiPython = {
   lb_uploadController: {
